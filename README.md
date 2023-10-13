@@ -10,32 +10,38 @@
 - [Retention Strategy Development](#retention-strategy-development)
 
 ### Project Overview
+💼
 
+This data analysis project aims to provide insights into the HR data of Meriskill to understand factors contributing to employee attrition and develop strategies for employee retention which is essential for maintaining a productive and motivated workforce.
 
-This data analysis project aims to provide insights into the HR data of Meriskill to understand factors contributing to employee attrition and develop strategies for employee retention which is essential for maintaining a productive and motivated workforce. 
+![new](https://github.com/alfalytics/Meriskill-HR-Attrition/assets/143225371/3269304c-377e-4b47-bf42-9c51a972099a)
+
+![new 2](https://github.com/alfalytics/Meriskill-HR-Attrition/assets/143225371/6e6db1f8-8a4d-4032-92d2-4b4e8ee0da04)
+
 
 ### Data Sources 
 
 HR Data: The primary dataset used for this analysis is the “HR Analytics.csv" file, which contains detailed information about each Employee working in the company. 
 
 ### Tools
-
-- Excel - Data Cleaning 
+🧰
+- Excel - Data Cleaning  
 - Power Bl - Data Transformation & Visualization
 
 ### Data Cleaning
+🧹
 
-In the initial data preparation phase, I performed the following tasks: 
-- Deleting redundant columns.
-- Renaming the columns.
-- Dropping duplicates.
-- Cleaning individual columns.
+In the initial data preparation phase, I performed the following tasks:
+- Deleting redundant columns
+- Renaming the columns
+- Dropping duplicates
+- Cleaning individual columns
 - Remove the NaN values from the dataset
 - Check for some more Transformations
 
 ### Exploratory Data Analysis
 
-I use data visualization and statistical analysis to uncover patterns and trends related to employee attrition. Look for factors that may contribute to attrition. Common factors may include low job satisfaction, Travel Distance, Marital Status, or poor work-life balance.
+I used data visualization and statistical analysis to uncover patterns and trends related to employee attrition. Look for factors that may contribute to attrition. Common factors may include low job satisfaction 👍 or 👎, Travel Distance 🚗, Marital Status 👫, or poor work-life balance ⚖️.
 
 ### Retention Strategy Development
 
