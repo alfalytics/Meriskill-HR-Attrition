@@ -1,6 +1,6 @@
 # HR Employee Attrition Analysis for Meriskill
 
-## Table of Contents
+## Table of Contents💼
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -9,8 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Retention Strategy Development](#retention-strategy-development)
 
-### Project Overview
-💼
+### Project Overview📔
 
 This data analysis project aims to provide insights into the HR data of Meriskill to understand factors contributing to employee attrition and develop strategies for employee retention which is essential for maintaining a productive and motivated workforce.
 
@@ -19,17 +18,16 @@ This data analysis project aims to provide insights into the HR data of Meriskil
 ![new 2](https://github.com/alfalytics/Meriskill-HR-Attrition/assets/143225371/6e6db1f8-8a4d-4032-92d2-4b4e8ee0da04)
 
 
-### Data Sources 
+### Data Sources
 
 HR Data: The primary dataset used for this analysis is the “HR Analytics.csv" file, which contains detailed information about each Employee working in the company. 
 
-### Tools
-🧰
+### Tools🧰
+
 - Excel - Data Cleaning  
 - Power Bl - Data Transformation & Visualization
 
-### Data Cleaning
-🧹
+### Data Cleaning🧹
 
 In the initial data preparation phase, I performed the following tasks:
 - Deleting redundant columns
@@ -43,7 +41,7 @@ In the initial data preparation phase, I performed the following tasks:
 
 I used data visualization and statistical analysis to uncover patterns and trends related to employee attrition. Look for factors that may contribute to attrition. Common factors may include low job satisfaction 👍 or 👎, Travel Distance 🚗, Marital Status 👫, or poor work-life balance ⚖️.
 
-### Retention Strategy Development
+### Retention Strategy Development🤔
 
 I developed employee retention strategies based on the identiﬁed factors contributing to attrition. Strategies may include:
 - Work-Life Balance: Promote work-life balance by offering ﬂexible work arrangements.
